@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website",
+    "section": "",
+    "text": "Welcome to my website\n\n\n\nHello! My name is Cloud Lee, and this is my personal website. I am a second-year student at SIT studying Applied Computing (FinTech).\nI created this website to showcase my projects, experiences, and reflections on using GenAI tools for learning and project development.\nI have a strong interest in:\n\nSoftware development\nFinancial technology\nData analysis and visualization\nFront-end and UI/UX design\n\nThis website showcases my academic journey, selected projects, and reflections on using GenAI tools in my learning.\n\n\n“Learning by applying knowledge to real-world problems.”\n\nYou can explore my projects, data visualization work, and reflections using the navigation bar above &lt;3"
+  },
+  {
+    "objectID": "dataviz.html",
+    "href": "dataviz.html",
+    "title": "Data Visualization: Stock Price Trends",
+    "section": "",
+    "text": "Below is one data visualization that I created during my student projects.\nIt shows numerical data plotted over time using a line graph.\n\n\n\n\n\nThis graph visualizes stock market price data over time.\n\nThe horizontal axis (x-axis) represents time, from November 2020 to May 2021.\n\nThe vertical axis (y-axis) represents the stock price, shown in numerical values.\n\nEach point on the line shows the price of the stock on a particular day.\n\nThe connected line allows us to see how the price changes continuously over time.\n\nThis is a quantitative visualization because it represents numerical values (stock prices) and their changes over a period of time.\n\n\n\n\nI created this visualization as part of a finance and programming-related student project where I was learning how to analyze real-world financial data. I used historical stock price data downloaded from an online financial API and processed it using Python.\nThe goal of the task was to understand how stock prices fluctuate over time and how trends, peaks, and drops can be identified visually. Instead of only looking at raw numbers in a table, plotting the data as a graph makes it much easier to see patterns, such as upward trends, sudden drops, or periods of high volatility.\n\n\n\n\nI chose a line graph because:\n\nIt is the best way to show changes over time.\nIt clearly highlights trends, such as rising or falling prices.\nIt allows easy comparison between different time periods.\nFinancial data like stock prices is continuous, so connecting points with lines makes sense.\n\nBy using a line graph, viewers can quickly understand how the stock behaved during this period and identify important movements, such as when the price increased sharply or dropped suddenly.\n\nThis visualization demonstrates how numerical data can be transformed into a clear visual story, making complex financial information easier to understand."
+  },
+  {
+    "objectID": "dataviz.html#example-of-quantitative-data-visualization",
+    "href": "dataviz.html#example-of-quantitative-data-visualization",
+    "title": "Data Visualization: Stock Price Trends",
+    "section": "",
+    "text": "Below is one data visualization that I created during my student projects.\nIt shows numerical data plotted over time using a line graph."
+  },
+  {
+    "objectID": "dataviz.html#what-is-visualized",
+    "href": "dataviz.html#what-is-visualized",
+    "title": "Data Visualization: Stock Price Trends",
+    "section": "",
+    "text": "This graph visualizes stock market price data over time.\n\nThe horizontal axis (x-axis) represents time, from November 2020 to May 2021.\n\nThe vertical axis (y-axis) represents the stock price, shown in numerical values.\n\nEach point on the line shows the price of the stock on a particular day.\n\nThe connected line allows us to see how the price changes continuously over time.\n\nThis is a quantitative visualization because it represents numerical values (stock prices) and their changes over a period of time."
+  },
+  {
+    "objectID": "dataviz.html#story-behind-this-visualization",
+    "href": "dataviz.html#story-behind-this-visualization",
+    "title": "Data Visualization: Stock Price Trends",
+    "section": "",
+    "text": "I created this visualization as part of a finance and programming-related student project where I was learning how to analyze real-world financial data. I used historical stock price data downloaded from an online financial API and processed it using Python.\nThe goal of the task was to understand how stock prices fluctuate over time and how trends, peaks, and drops can be identified visually. Instead of only looking at raw numbers in a table, plotting the data as a graph makes it much easier to see patterns, such as upward trends, sudden drops, or periods of high volatility."
+  },
+  {
+    "objectID": "dataviz.html#why-i-chose-this-type-of-visualization",
+    "href": "dataviz.html#why-i-chose-this-type-of-visualization",
+    "title": "Data Visualization: Stock Price Trends",
+    "section": "",
+    "text": "I chose a line graph because:\n\nIt is the best way to show changes over time.\nIt clearly highlights trends, such as rising or falling prices.\nIt allows easy comparison between different time periods.\nFinancial data like stock prices is continuous, so connecting points with lines makes sense.\n\nBy using a line graph, viewers can quickly understand how the stock behaved during this period and identify important movements, such as when the price increased sharply or dropped suddenly.\n\nThis visualization demonstrates how numerical data can be transformed into a clear visual story, making complex financial information easier to understand."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "The primary GenAI tool I used for this assessment was ChatGPT.\n\n\n\n\nI chose ChatGPT because it: - Helps structure content clearly - Explains technical steps in a simple manner - Assists in improving writing quality and formatting\n\n\n\nChatGPT supported me in: - Understanding how to configure Quarto and GitHub Pages - Structuring my website content logically - Improving clarity and flow in my written explanations\nFor example, it helped break down complex setup steps into clear, actionable instructions.\n\n\n\n\nSaves time when organizing ideas\nHelps refine existing content instead of rewriting from scratch\nUseful as a learning companion when stuck\n\n\n\n\n\nRequires careful checking to ensure correctness\nOver-reliance may reduce independent problem-solving if not used wisely\n\n\n\n\nI believe GenAI tools will continue to assist me in: - Debugging code - Drafting reports - Brainstorming project ideas - Supporting learning in technical modules\nOverall, GenAI is a valuable tool when used responsibly to enhance productivity and understanding."
+  },
+  {
+    "objectID": "reflection.html#genai-tool-used",
+    "href": "reflection.html#genai-tool-used",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "The primary GenAI tool I used for this assessment was ChatGPT."
+  },
+  {
+    "objectID": "reflection.html#why-i-chose-this-tool",
+    "href": "reflection.html#why-i-chose-this-tool",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "I chose ChatGPT because it: - Helps structure content clearly - Explains technical steps in a simple manner - Assists in improving writing quality and formatting"
+  },
+  {
+    "objectID": "reflection.html#how-genai-helped-me",
+    "href": "reflection.html#how-genai-helped-me",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "ChatGPT supported me in: - Understanding how to configure Quarto and GitHub Pages - Structuring my website content logically - Improving clarity and flow in my written explanations\nFor example, it helped break down complex setup steps into clear, actionable instructions."
+  },
+  {
+    "objectID": "reflection.html#benefits",
+    "href": "reflection.html#benefits",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "Saves time when organizing ideas\nHelps refine existing content instead of rewriting from scratch\nUseful as a learning companion when stuck"
+  },
+  {
+    "objectID": "reflection.html#challenges",
+    "href": "reflection.html#challenges",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "Requires careful checking to ensure correctness\nOver-reliance may reduce independent problem-solving if not used wisely"
+  },
+  {
+    "objectID": "reflection.html#future-use",
+    "href": "reflection.html#future-use",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "I believe GenAI tools will continue to assist me in: - Debugging code - Drafting reports - Brainstorming project ideas - Supporting learning in technical modules\nOverall, GenAI is a valuable tool when used responsibly to enhance productivity and understanding."
+  },
+  {
+    "objectID": "fyp.html",
+    "href": "fyp.html",
+    "title": "Project: Social Media Mobile Application",
+    "section": "",
+    "text": "This project involved designing and developing a social media mobile application aimed at enhancing user engagement and providing a seamless platform for sharing content.\nThe motivation behind this project was to simplify social media interactions such as posting updates and media, following friends and interests, messaging and notifications, improving accessibility and user experience.\n\n\n\nI was responsible for designing the application flow and interface, implementing front-end components and ensuring usability and clarity in information presentation.\n\n\n\n\nUI/UX wireframing tools\nFront-end development frameworks (Flutter / JavaScript)\nBasic backend integration concepts\n\n\n\n\nHere is a short video demonstrating the application functionality:\n\n\n\n\n\nGood UI/UX design significantly improves user engagement\nClear information architecture is crucial in social media platforms\nUser-centric design reduces confusion and increases retention\n\nThis project strengthened my interest in mobile application development and user-centered technology solutions."
+  },
+  {
+    "objectID": "fyp.html#project-overview",
+    "href": "fyp.html#project-overview",
+    "title": "Project: Social Media Mobile Application",
+    "section": "",
+    "text": "This project involved designing and developing a social media mobile application aimed at enhancing user engagement and providing a seamless platform for sharing content.\nThe motivation behind this project was to simplify social media interactions such as posting updates and media, following friends and interests, messaging and notifications, improving accessibility and user experience."
+  },
+  {
+    "objectID": "fyp.html#my-role",
+    "href": "fyp.html#my-role",
+    "title": "Project: Social Media Mobile Application",
+    "section": "",
+    "text": "I was responsible for designing the application flow and interface, implementing front-end components and ensuring usability and clarity in information presentation."
+  },
+  {
+    "objectID": "fyp.html#tools-technologies",
+    "href": "fyp.html#tools-technologies",
+    "title": "Project: Social Media Mobile Application",
+    "section": "",
+    "text": "UI/UX wireframing tools\nFront-end development frameworks (Flutter / JavaScript)\nBasic backend integration concepts"
+  },
+  {
+    "objectID": "fyp.html#project-demonstration",
+    "href": "fyp.html#project-demonstration",
+    "title": "Project: Social Media Mobile Application",
+    "section": "",
+    "text": "Here is a short video demonstrating the application functionality:"
+  },
+  {
+    "objectID": "fyp.html#key-takeaways",
+    "href": "fyp.html#key-takeaways",
+    "title": "Project: Social Media Mobile Application",
+    "section": "",
+    "text": "Good UI/UX design significantly improves user engagement\nClear information architecture is crucial in social media platforms\nUser-centric design reduces confusion and increases retention\n\nThis project strengthened my interest in mobile application development and user-centered technology solutions."
+  },
+  {
+    "objectID": "myband.html",
+    "href": "myband.html",
+    "title": "Lee Yun Jia",
+    "section": "",
+    "text": "Music is an important part of my life. I am part of a band where we play and perform together. Being in a band has taught me teamwork, discipline, and how to communicate through music.\nEach member of the band has a role, and we work together to create a balanced and enjoyable sound. Practicing regularly and performing with others has helped me become more confident and focused."
+  },
+  {
+    "objectID": "myband.html#about-my-band",
+    "href": "myband.html#about-my-band",
+    "title": "Lee Yun Jia",
+    "section": "",
+    "text": "Music is an important part of my life. I am part of a band where we play and perform together. Being in a band has taught me teamwork, discipline, and how to communicate through music.\nEach member of the band has a role, and we work together to create a balanced and enjoyable sound. Practicing regularly and performing with others has helped me become more confident and focused."
+  },
+  {
+    "objectID": "myband.html#my-instrument-the-saxophone",
+    "href": "myband.html#my-instrument-the-saxophone",
+    "title": "Lee Yun Jia",
+    "section": "My Instrument – The Saxophone",
+    "text": "My Instrument – The Saxophone\nI play the saxophone, which is a wind instrument commonly used in jazz, pop, and band music. The saxophone produces sound when air passes through a reed and vibrates inside the instrument.\nI enjoy playing the saxophone because:\n\nIt has a warm and expressive sound\n\nIt can play both melody and harmony\n\nIt is used in many styles of music\n\nLearning to play the saxophone requires good breath control, finger coordination, and practice. Over time, I have improved my ability to read music, keep rhythm, and perform in front of others."
+  },
+  {
+    "objectID": "myband.html#my-recent-performance",
+    "href": "myband.html#my-recent-performance",
+    "title": "Lee Yun Jia",
+    "section": "My Recent Performance 🎷",
+    "text": "My Recent Performance 🎷\nHere is a recent video of me playing with the SIT band:"
+  },
+  {
+    "objectID": "myband.html#why-music-matters-to-me",
+    "href": "myband.html#why-music-matters-to-me",
+    "title": "Lee Yun Jia",
+    "section": "Why Music Matters to Me",
+    "text": "Why Music Matters to Me\nBeing in a band has helped me grow not only as a musician, but also as a person. It has taught me:\n\nHow to work as part of a team\n\nHow to listen to others\n\nHow to stay committed to regular practice\n\nHow to perform with confidence\n\nMusic also helps me relax and express myself, especially when I am busy with schoolwork and projects."
+  },
+  {
+    "objectID": "myband.html#what-i-hope-to-achieve",
+    "href": "myband.html#what-i-hope-to-achieve",
+    "title": "Lee Yun Jia",
+    "section": "What I Hope to Achieve",
+    "text": "What I Hope to Achieve\nIn the future, I hope to continue improving my saxophone skills and performing with my band. I would like to play more challenging pieces and take part in more performances, both in school and outside of school.\nPlaying music is something I truly enjoy, and it will always be an important part of my life."
+  }
+]

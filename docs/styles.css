@@ -1,0 +1,73 @@
+/* General page styling */
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f9fafc;
+  color: #222;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #1f3a5f;
+  font-weight: 600;
+  margin-top: 1.5em;
+}
+
+/* Page title */
+.quarto-title-block .title {
+  color: #102a43;
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+/* Content area */
+.quarto-container {
+  max-width: 900px;
+  margin: auto;
+  padding: 1rem;
+}
+
+/* Images */
+img {
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  margin: 1.2rem 0;
+}
+
+/* Video embeds (YouTube) */
+iframe {
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+}
+
+/* Bullet lists */
+ul {
+  margin-left: 1.2rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+/* Highlight boxes */
+blockquote {
+  background: #eef3f8;
+  border-left: 5px solid #3b82f6;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+/* Links */
+a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Section spacing */
+section {
+  margin-bottom: 2rem;
+}

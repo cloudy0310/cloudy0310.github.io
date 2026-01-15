@@ -1,0 +1,38 @@
+# Reflection on the Use of GenAI
+
+## GenAI Tool Used
+The primary GenAI tool I used for this assessment was **ChatGPT**.
+
+![](imgs/chatgpt.png){width=100%}
+
+## Why I Chose This Tool
+I chose ChatGPT because it:
+- Helps structure content clearly
+- Explains technical steps in a simple manner
+- Assists in improving writing quality and formatting
+
+## How GenAI Helped Me
+ChatGPT supported me in:
+- Understanding how to configure Quarto and GitHub Pages
+- Structuring my website content logically
+- Improving clarity and flow in my written explanations
+
+For example, it helped break down complex setup steps into clear, actionable instructions.
+
+## Benefits
+- Saves time when organizing ideas
+- Helps refine existing content instead of rewriting from scratch
+- Useful as a learning companion when stuck
+
+## Challenges
+- Requires careful checking to ensure correctness
+- Over-reliance may reduce independent problem-solving if not used wisely
+
+## Future Use
+I believe GenAI tools will continue to assist me in:
+- Debugging code
+- Drafting reports
+- Brainstorming project ideas
+- Supporting learning in technical modules
+
+Overall, GenAI is a valuable tool when used responsibly to enhance productivity and understanding.

@@ -1,0 +1,46 @@
+# Data Visualization: Stock Price Trends
+
+## Example of Quantitative Data Visualization
+
+Below is one data visualization that I created during my student projects.  
+It shows numerical data plotted over time using a line graph.
+
+![](imgs/graph.ppm){width=100%}
+
+---
+
+## What is Visualized
+
+This graph visualizes **stock market price data over time**.  
+
+- The **horizontal axis (x-axis)** represents **time**, from **November 2020 to May 2021**.  
+- The **vertical axis (y-axis)** represents the **stock price**, shown in numerical values.  
+- Each point on the line shows the price of the stock on a particular day.  
+- The connected line allows us to see how the price changes continuously over time.
+
+This is a quantitative visualization because it represents **numerical values (stock prices)** and their changes over a period of time.
+
+---
+
+## Story Behind This Visualization
+
+I created this visualization as part of a finance and programming-related student project where I was learning how to analyze real-world financial data. I used historical stock price data downloaded from an online financial API and processed it using Python.
+
+The goal of the task was to understand how stock prices fluctuate over time and how trends, peaks, and drops can be identified visually. Instead of only looking at raw numbers in a table, plotting the data as a graph makes it much easier to see patterns, such as upward trends, sudden drops, or periods of high volatility.
+
+---
+
+## Why I Chose This Type of Visualization
+
+I chose a **line graph** because:
+
+- It is the best way to show **changes over time**.
+- It clearly highlights **trends**, such as rising or falling prices.
+- It allows easy comparison between different time periods.
+- Financial data like stock prices is continuous, so connecting points with lines makes sense.
+
+By using a line graph, viewers can quickly understand how the stock behaved during this period and identify important movements, such as when the price increased sharply or dropped suddenly.
+
+---
+
+This visualization demonstrates how numerical data can be transformed into a clear visual story, making complex financial information easier to understand.

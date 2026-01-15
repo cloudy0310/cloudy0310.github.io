@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lee Yun Jia"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: fyp.qmd
+        text: Project
+      - href: dataviz.qmd
+        text: Data Visualization
+      - href: reflection.qmd
+        text: Reflection
+      - href: myband.qmd
+        text: Band
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

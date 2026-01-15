@@ -1,0 +1,26 @@
+# Welcome to my website
+
+::: {style="float:left; position: relative; top: 0px; margin-right: 15px;"}
+![](imgs/selfpic.jpg){height="150px"}
+:::
+
+Hello! My name is Cloud Lee, and this is my personal website. I am a second-year student at SIT studying Applied Computing (FinTech). 
+
+I created this website to showcase my projects, experiences, and reflections on using GenAI tools for learning and project development.
+
+
+I have a strong interest in:
+
+- Software development
+- Financial technology
+- Data analysis and visualization
+- Front-end and UI/UX design
+
+This website showcases my academic journey, selected projects, and reflections on using GenAI tools in my learning.
+
+![](imgs/SIT Logo.png){width=60%}
+
+> *“Learning by applying knowledge to real-world problems.”*
+
+You can explore my projects, data visualization work, and reflections using the navigation bar above <3
+

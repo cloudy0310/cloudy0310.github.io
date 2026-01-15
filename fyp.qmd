@@ -1,0 +1,26 @@
+# Project: Social Media Mobile Application
+
+## Project Overview
+This project involved designing and developing a **social media mobile application** aimed at enhancing user engagement and providing a seamless platform for sharing content.
+
+The motivation behind this project was to simplify social media interactions such as posting updates and media, following friends and interests, messaging and notifications, improving accessibility and user experience.
+
+## My Role
+I was responsible for designing the application flow and interface, implementing front-end components and ensuring usability and clarity in information presentation.
+
+## Tools & Technologies
+- UI/UX wireframing tools
+- Front-end development frameworks (Flutter / JavaScript)
+- Basic backend integration concepts
+
+## Project Demonstration
+Here is a short video demonstrating the application functionality:
+
+{{< video https://youtu.be/p7qsO-f7VDc width="100" height="200" >}}
+
+## Key Takeaways
+- Good UI/UX design significantly improves user engagement
+- Clear information architecture is crucial in social media platforms
+- User-centric design reduces confusion and increases retention
+
+This project strengthened my interest in **mobile application development** and **user-centered technology solutions**.
