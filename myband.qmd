@@ -26,7 +26,7 @@ Here is a recent video of me playing with the **SIT band**:
 
 {{< video
 https://youtu.be/Ndfj4-_C8OQ
-width="600" height="400" >}}
+width="500" height="400" >}}
 
 ---
 

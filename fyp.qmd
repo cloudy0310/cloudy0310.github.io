@@ -16,7 +16,7 @@ I was responsible for designing the application flow and interface, implementing
 ## Project Demonstration
 Here is a short video demonstrating the application functionality:
 
-{{< video https://youtu.be/p7qsO-f7VDc width="100" height="200" >}}
+{{< video https://youtu.be/p7qsO-f7VDc width="500" height="400" >}}
 
 ## Key Takeaways
 - Good UI/UX design significantly improves user engagement
